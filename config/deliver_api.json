@@ -1,0 +1,4 @@
+{
+	"secretkey": "testkittens",
+	"endpoint": "http://localhost:1337/mail"
+}
