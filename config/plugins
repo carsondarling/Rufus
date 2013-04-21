@@ -29,3 +29,5 @@ rcpt_to.access
 rcpt_to.in_host_list
 
 deliver_api
+
+auth/flat_file
